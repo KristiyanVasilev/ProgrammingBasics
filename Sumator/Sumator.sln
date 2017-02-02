@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sumator", "Sumator\Sumator.csproj", "{FD1DE634-98D2-4197-9E14-78AEA693A541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EF5E1F39-F361-4FC2-A78A-2F58AE588F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertor", "Convertor\Convertor.csproj", "{28A9DEC3-37DE-4E35-81B6-BD055DC9978C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD1DE634-98D2-4197-9E14-78AEA693A541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD1DE634-98D2-4197-9E14-78AEA693A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD1DE634-98D2-4197-9E14-78AEA693A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD1DE634-98D2-4197-9E14-78AEA693A541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5E1F39-F361-4FC2-A78A-2F58AE588F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF5E1F39-F361-4FC2-A78A-2F58AE588F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF5E1F39-F361-4FC2-A78A-2F58AE588F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF5E1F39-F361-4FC2-A78A-2F58AE588F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28A9DEC3-37DE-4E35-81B6-BD055DC9978C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28A9DEC3-37DE-4E35-81B6-BD055DC9978C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28A9DEC3-37DE-4E35-81B6-BD055DC9978C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28A9DEC3-37DE-4E35-81B6-BD055DC9978C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

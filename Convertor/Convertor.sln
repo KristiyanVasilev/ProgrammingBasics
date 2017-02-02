@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convertor", "Convertor\Convertor.csproj", "{AD839BBB-4F49-44A8-9A5B-FC3323835BA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatchMeButton", "CatchMeButton\CatchMeButton.csproj", "{A8D2F560-E287-4B1A-A54C-795C80B5FCAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD839BBB-4F49-44A8-9A5B-FC3323835BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD839BBB-4F49-44A8-9A5B-FC3323835BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD839BBB-4F49-44A8-9A5B-FC3323835BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD839BBB-4F49-44A8-9A5B-FC3323835BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8D2F560-E287-4B1A-A54C-795C80B5FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8D2F560-E287-4B1A-A54C-795C80B5FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8D2F560-E287-4B1A-A54C-795C80B5FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8D2F560-E287-4B1A-A54C-795C80B5FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
